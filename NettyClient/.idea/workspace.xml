@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="609f0b16-853f-42e3-8f85-b7ab9e9df331" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SimpleClientServer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\MavenRepository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mJjP8qwSZVeD6fDgE6MPf1Bnb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NettyClient">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bio.Client" />
+      <module name="NettyClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.GroupChat.GroupChatClient" />
+      <module name="NettyClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.GroupChat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="I_UDPSimpleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_UDPSimpleClient" />
+      <module name="NettyClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.Simple.NIOClient" />
+      <module name="NettyClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.Simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.simple.NettyClient" />
+      <module name="NettyClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.GroupChatClient" />
+      <item itemvalue="Application.I_UDPSimpleClient" />
+      <item itemvalue="Application.NIOClient" />
+      <item itemvalue="Application.NettyClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.GroupChatClient" />
+        <item itemvalue="Application.NIOClient" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.I_UDPSimpleClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="609f0b16-853f-42e3-8f85-b7ab9e9df331" name="Default Changelist" comment="" />
+      <created>1609218561200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609218561200</updated>
+      <workItem from="1609218564510" duration="12532000" />
+      <workItem from="1609307563704" duration="4091000" />
+      <workItem from="1609327811914" duration="3641000" />
+      <workItem from="1609392833530" duration="1754000" />
+      <workItem from="1609481701965" duration="1201000" />
+      <workItem from="1609650575852" duration="3954000" />
+      <workItem from="1611558305049" duration="620000" />
+      <workItem from="1611816711244" duration="642000" />
+      <workItem from="1611909011766" duration="369000" />
+      <workItem from="1611991983894" duration="2986000" />
+      <workItem from="1614264640893" duration="1177000" />
+      <workItem from="1615723049763" duration="2833000" />
+      <workItem from="1615826250257" duration="600000" />
+      <workItem from="1615876222398" duration="2017000" />
+      <workItem from="1615944098963" duration="2396000" />
+      <workItem from="1616058821217" duration="600000" />
+      <workItem from="1616318214879" duration="894000" />
+      <workItem from="1616342105794" duration="3321000" />
+      <workItem from="1616391922778" duration="2853000" />
+      <workItem from="1617780331669" duration="1253000" />
+      <workItem from="1617798695823" duration="1391000" />
+      <workItem from="1617803518103" duration="641000" />
+      <workItem from="1618118000743" duration="307000" />
+      <workItem from="1618215278680" duration="1482000" />
+      <workItem from="1618224906423" duration="602000" />
+      <workItem from="1618400069838" duration="454000" />
+      <workItem from="1618473999546" duration="310000" />
+      <workItem from="1618973228245" duration="619000" />
+      <workItem from="1618995594116" duration="38000" />
+      <workItem from="1619073947991" duration="1163000" />
+      <workItem from="1619168851285" duration="609000" />
+      <workItem from="1619326345109" duration="602000" />
+      <workItem from="1619403907011" duration="604000" />
+      <workItem from="1619413501073" duration="496000" />
+      <workItem from="1619433549275" duration="601000" />
+      <workItem from="1619602459816" duration="601000" />
+      <workItem from="1620294681731" duration="1330000" />
+      <workItem from="1622601477307" duration="599000" />
+      <workItem from="1622730188350" duration="1154000" />
+      <workItem from="1622819753312" duration="391000" />
+      <workItem from="1622857576181" duration="599000" />
+      <workItem from="1622892860980" duration="603000" />
+      <workItem from="1622947050407" duration="597000" />
+      <workItem from="1622980926092" duration="601000" />
+      <workItem from="1623416802346" duration="1235000" />
+      <workItem from="1623481609828" duration="5004000" />
+      <workItem from="1623556575899" duration="6417000" />
+      <workItem from="1629293977368" duration="589000" />
+      <workItem from="1629294642339" duration="72000" />
+      <workItem from="1629294742103" duration="27000" />
+      <workItem from="1629463382697" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/I_ClientSimple.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/II_ClientWithThread.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/II_ClientThreadDo.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/III_NIOClient.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/III_NIOClient.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/III_NIOClient.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/III_NIOClient.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/I_UDPSimpleClient.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/I_UDPSimpleClient.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

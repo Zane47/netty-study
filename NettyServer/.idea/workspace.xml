@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a55990d7-10d4-4f73-ba31-f152bbe86761" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SimpleServerServer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\MavenRepository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mK0prUgqXGAMz9GvB9suw7pcfm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaDemo\Network\SimpleServerServer\src\NIO\Buffer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NettyServer">
+    <configuration name="GroupChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.GroupChat.GroupChatServer" />
+      <module name="NettyServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.GroupChat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MappedByteBufferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.Buffer.MappedByteBufferTest" />
+      <module name="NettyServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.Buffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.Simple.NIOServer" />
+      <module name="NettyServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.Simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.simple.NettyServer" />
+      <module name="NettyServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.simple.Test" />
+      <module name="NettyServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.GroupChatServer" />
+        <item itemvalue="Application.NIOServer" />
+        <item itemvalue="Application.MappedByteBufferTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a55990d7-10d4-4f73-ba31-f152bbe86761" name="Default Changelist" comment="" />
+      <created>1609227160506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609227160506</updated>
+      <workItem from="1609227163432" duration="4921000" />
+      <workItem from="1609307532863" duration="5120000" />
+      <workItem from="1609327752151" duration="5304000" />
+      <workItem from="1609392964539" duration="3584000" />
+      <workItem from="1609483803619" duration="599000" />
+      <workItem from="1609650554315" duration="1075000" />
+      <workItem from="1609651645680" duration="4172000" />
+      <workItem from="1611558302752" duration="621000" />
+      <workItem from="1611991989070" duration="3156000" />
+      <workItem from="1612243787346" duration="594000" />
+      <workItem from="1612621949141" duration="741000" />
+      <workItem from="1613912599067" duration="594000" />
+      <workItem from="1614264610023" duration="1588000" />
+      <workItem from="1615723045717" duration="3094000" />
+      <workItem from="1615826015704" duration="5376000" />
+      <workItem from="1615876445548" duration="12461000" />
+      <workItem from="1615944109095" duration="602000" />
+      <workItem from="1616315424034" duration="2598000" />
+      <workItem from="1616318218533" duration="1024000" />
+      <workItem from="1616342328691" duration="4245000" />
+      <workItem from="1616392100607" duration="4712000" />
+      <workItem from="1616408214482" duration="1210000" />
+      <workItem from="1617780328213" duration="609000" />
+      <workItem from="1617798703216" duration="1782000" />
+      <workItem from="1617803514965" duration="648000" />
+      <workItem from="1617858021642" duration="367000" />
+      <workItem from="1618118009227" duration="301000" />
+      <workItem from="1618215274912" duration="1587000" />
+      <workItem from="1618224581289" duration="313000" />
+      <workItem from="1618224910206" duration="599000" />
+      <workItem from="1618400074479" duration="449000" />
+      <workItem from="1618973249059" duration="599000" />
+      <workItem from="1619168863415" duration="611000" />
+      <workItem from="1619403911590" duration="603000" />
+      <workItem from="1619433552522" duration="1206000" />
+      <workItem from="1619602462491" duration="602000" />
+      <workItem from="1620294686255" duration="601000" />
+      <workItem from="1622819757034" duration="386000" />
+      <workItem from="1622892865736" duration="1471000" />
+      <workItem from="1622980929033" duration="1229000" />
+      <workItem from="1623302352920" duration="11000" />
+      <workItem from="1623416812871" duration="1693000" />
+      <workItem from="1623481322650" duration="282000" />
+      <workItem from="1623481612983" duration="8390000" />
+      <workItem from="1623559935742" duration="6664000" />
+      <workItem from="1629293981642" duration="585000" />
+      <workItem from="1629294684806" duration="31000" />
+      <workItem from="1629294749226" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/III_NIOServer.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/III_NIOServer.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/III_NIOServer.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/III_NIOServer.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/III_NIOServer.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/I_UDPSimpleServer.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/I_UDPSimpleServer.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nio/Buffer/BasicBuffer.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nio/FileChannel/NIOFileChannel01WriteFile.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nio/FileChannel/NIOFileChannel03CopyTxt.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nio/Buffer/ByteBufferPutGet.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nio/Buffer/MappedByteBufferTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/netty/simple/NettyServerHandler.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/netty/simple/NettyServerHandler.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
