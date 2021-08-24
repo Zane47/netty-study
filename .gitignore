@@ -1,3 +1,4 @@
 .idea
 /NettyClient/*.iml
 /NettyServer/*.iml
+out
