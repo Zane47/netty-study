@@ -1,4 +1,4 @@
-package com.example;
+package com.example.quickstart;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
